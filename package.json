@@ -51,6 +51,9 @@
       },
       "MOLTBOT_GATEWAY_TOKEN": {
         "description": "Token for gateway access. Generate with: openssl rand -hex 32"
+      },
+      "CF_AI_GATEWAY_ACCOUNT_ID": {
+        "description": "acc id"
       }
     }
   }
